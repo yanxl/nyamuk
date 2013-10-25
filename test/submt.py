@@ -106,4 +106,4 @@ if __name__ == '__main__':
         print "example  : python submt.py localhost sub-iwan teknobridges"
         sys.exit(0)
 
-    main(400)
+    main(1800)
